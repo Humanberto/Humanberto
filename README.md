@@ -26,7 +26,7 @@ the workflow, and the business it serves. I ship real things end to end.
 | [VZTR Help](https://github.com/humanberto/vztr-help) | Coordinate hospital visits with one shareable link (Next.js + Supabase, RLS) |
 | [Petchmaker](https://github.com/humanberto/petchmaker) | Match pets needing care with the right people (Next.js + Supabase) |
 | [resume-job-matcher](https://github.com/humanberto/resume-job-matcher) | TF-IDF tool that scores a resume against a job description (Python, scikit-learn) |
-| [nyc-taxi-duckdb](https://github.com/humanberto/nyc-taxi-duckdb) | A tidy local ETL + analytics pipeline (Python, DuckDB) |
+| [duckdb-rides-pipeline](https://github.com/humanberto/duckdb-rides-pipeline) | A tidy local ETL + analytics pipeline (Python, DuckDB) |
 
 ## How I think
 
